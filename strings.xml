@@ -1,0 +1,20 @@
+Enter file contents here<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LearnMixer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="prompt">Choose a subject</string>
+    <string name="subjects_array" />
+    <String-array name="subjects_array">
+        <item>Language and Literature</item>
+        <item>-Estonian language</item>
+        <item>-Estonian literature</item>
+        <item>-Russian language</item>
+        <item>-Russian literature</item>
+        <item>Foreign languages</item>
+        <item>-Foreign language I</item>
+        <item>-Foreign language II</item>
+    </String-array>
+
+</resources>
